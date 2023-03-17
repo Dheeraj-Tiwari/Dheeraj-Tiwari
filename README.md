@@ -44,7 +44,7 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/Dheeraj-Tiwari/Dheeraj-Tiwari/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
   
 </div>
-### ✍️ Random Dev Quote
+<h2>✍️ Random Dev Quote</h2>
   <div align="center">  
 <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="550px"/>
     </div>
