@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on <a href="https://thethinkingmachine101.blogspot.com/" target="_blank">thethinkingmachine101</a>
 
-- 🌐 Have a look at my <a https://dheeraj-tiwari.github.io/Dheeraj-portfolio-website/" target="_blank">Portfolio</a>
+- 🌐 Have a look at my <a href=https://dheeraj-tiwari.github.io/Dheeraj-portfolio-website/" target="_blank">Portfolio</a>
 
 - 📄 Download my <a href="https://drive.google.com/file/d/1w3jcX_7IzUV-8aTsWu36dsV-uEYQ0zjX/view?usp=share_link" target="_target">Resume</a>
 
