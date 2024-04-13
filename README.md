@@ -56,7 +56,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dheeraj-Tiwari&theme=2077" style="height: 300px"  />                                 </div>                                                                                       
                                                                                                                              
  <h3 align="left">⚡Activity Graph:</h3>
-  <a><img alt="Ajay Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Dheeraj-Tiwari&theme=react-dark&hide_border=true" /></a>    
+  <a><img alt="Dheeraj Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Dheeraj-Tiwari&theme=react-dark&hide_border=true" /></a>    
   
   <div align="center">    
 <img src="https://github-profile-trophy.vercel.app/?username=Dheeraj-Tiwari&column=-1&theme=chalk&rank=-?&margin-w=15" style="height: 200px"  /> 
