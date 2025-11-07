@@ -17,7 +17,8 @@
 
 - 🌐 Have a look at my <a href="https://dheeraj-tiwari.github.io/Dheeraj-portfolio-website/" target="_blank">Portfolio</a>
 
-- 📄 Download my <a href="https://drive.google.com/file/d/1w3jcX_7IzUV-8aTsWu36dsV-uEYQ0zjX/view?usp=share_link](https://drive.google.com/file/d/1nVkMcS3fOfGuXS_ofcZ1GQlEUKOdcofy/view?usp=sharing)" target="_target">Resume</a>
+- 📄 Download my <a href="https://drive.google.com/file/d/1nVkMcS3fOfGuXS_ofcZ1GQlEUKOdcofy/view" target="_blank">Resume</a>
+
 
 - 💬 Open for your suggestions
 
